@@ -1,0 +1,6 @@
+64050661 วฤษณิ์ ทับทิม
+1. notifyAll();
+2. synchronized
+3. wait();
+4. Q4.1 inside try block
+5. public
